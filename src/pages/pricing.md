@@ -30,7 +30,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Tune-ups
-        subtitle: For you and your family members
+        subtitle: Preparing your home for hot summers and cold winters
         title_align: left
         content: |-
           ---
