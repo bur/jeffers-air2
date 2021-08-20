@@ -33,7 +33,7 @@ sections:
         subtitle: Preparing your home for hot summers and cold winters
         title_align: left
         content: |
-          ### $19
+          ### &#xA;$19
 
           per month, billed yearly
 
