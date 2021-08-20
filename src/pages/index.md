@@ -103,7 +103,7 @@ sections:
           fair in pricing [...]. If you need an AC man Joel Jeffers is the right
           one!”
         subtitle: 'Alyvia Cope, Design at Company'
-        image: images/person-1.png
+        image: images/sandra.png
         image_alt: Person 1 photo
         media_position: right
         media_width: thirty-three
