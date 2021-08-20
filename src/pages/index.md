@@ -98,11 +98,10 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Joel’s team are hard working, dependable, timely, conscientious as
-          well as clean up after themselves! Joel is personable and is very fair
-          in pricing. We literally paid almost half of what we had researched to
-          replace our Seer 14/ 5 ton Train AC unit. If you need an AC man Joel
-          Jeffers is the right one!”
+          “[...]Joel’s team are hard working, dependable, timely, conscientious
+          as well as clean up after themselves! Joel is personable and is very
+          fair in pricing. [...] If you need an AC man Joel Jeffers is the right
+          one!”
         subtitle: 'Alyvia Cope, Design at Company'
         image: images/person-1.png
         image_alt: Person 1 photo
