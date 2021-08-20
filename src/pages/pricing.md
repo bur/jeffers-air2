@@ -42,7 +42,7 @@ sections:
           *   Professional recommendations for further repairs
         content_align: left
         actions:
-          - label: Start with Family
+          - label: Start with Tune-ups
             url: /thank-you
             style: primary
         actions_align: left
