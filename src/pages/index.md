@@ -110,7 +110,7 @@ sections:
           “Joel is amazing and has very reasonable prices. He's willing to
           answer questions and come up with inexpensive solutions. He's not
           going to swindle or up charge anyone and he does really amazing work!”
-        subtitle: 'Travis Guidelines, Manager at Company'
+        subtitle: 'Stefanie Reinsch, Manager at Company'
         image_alt: Person 2 photo
         media_position: left
         media_width: thirty-three
