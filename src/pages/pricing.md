@@ -48,7 +48,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: New Installations
-        subtitle: Offering Trane
+        subtitle: Offering TRANE
         title_align: left
         content: |
           ***
