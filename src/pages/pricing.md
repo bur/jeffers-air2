@@ -53,7 +53,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Business
+      - title: New Installations
         subtitle: For your entire team
         title_align: left
         content: |-
