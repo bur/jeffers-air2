@@ -59,7 +59,7 @@ sections:
           *   Consultation free if unit purchased
         content_align: left
         actions:
-          - label: Start with Business
+          - label: Start with New installations
             url: /thank-you
             style: primary
         actions_align: left
