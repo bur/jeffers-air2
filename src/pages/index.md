@@ -69,9 +69,11 @@ sections:
         image_position: top
       - title: New Installations
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >
+          New A/C and heating systems are a big investment. You deserve a pro
+          that can walk you through all the right decisions that make sense for
+          your family and your budget. We accept all major credit cards and we
+          offer financing options that best meet your budget.
         content_align: left
         actions:
           - label: Learn More
