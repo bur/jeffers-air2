@@ -100,7 +100,7 @@ sections:
       - title: >-
           “[...]Joel’s team are hard working, dependable, timely, conscientious
           as well as clean up after themselves! Joel is personable and is very
-          fair in pricing. [...] If you need an AC man Joel Jeffers is the right
+          fair in pricing [...]. If you need an AC man Joel Jeffers is the right
           one!”
         subtitle: 'Alyvia Cope, Design at Company'
         image: images/person-1.png
