@@ -4,37 +4,6 @@
     "palette": "blue",
     "mode": "light",
     "base_font": "sans-serif",
-    "header": {
-        "title": "App",
-        "logo": "images/logo.png",
-        "logo_alt": "App logo",
-        "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
-            }
-        ],
-        "has_secondary_nav": true,
-        "secondary_nav_links": [],
-        "has_anncmnt": true,
-        "anncmnt_content": "Contact us today about our specials for new installations, financing as low as 0% interest available. [**Learn More**](/pricing/)\n",
-        "anncmnt_align": "left",
-        "anncmnt_is_home_only": true,
-        "anncmnt_has_close": true,
-        "anncmnt_id": "new-features"
-    },
     "footer": {
         "logo": "images/logo.png",
         "logo_alt": "App logo",
