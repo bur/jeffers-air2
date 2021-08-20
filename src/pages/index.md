@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: JEFFERS AIR CONDITIONING AND HEATING
-    subtitle: Stop switching between calendars and task lists!
+    subtitle: >-
+      Providing A/C and Heating services to the East Valley and Phoenix
+      Metropolitan area.
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
