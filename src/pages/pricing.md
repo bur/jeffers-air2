@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Personal
+      - title: Repairs
         subtitle: Just for you
         title_align: left
         content: |-
