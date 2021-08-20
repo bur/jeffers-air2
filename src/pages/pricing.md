@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Repairs
-        subtitle: Just for you
+        subtitle: 'Fast,'
         title_align: left
         content: |-
           ---
