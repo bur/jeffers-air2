@@ -52,7 +52,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: New Installations
-        subtitle: For your entire team
+        subtitle: Offering Trane
         title_align: left
         content: |-
           ---
