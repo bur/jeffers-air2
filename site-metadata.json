@@ -98,7 +98,7 @@
         "primary_nav_links": [],
         "has_secondary_nav": true,
         "secondary_nav_links": [],
-        "has_anncmnt": false,
+        "has_anncmnt": true,
         "anncmnt_content": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
