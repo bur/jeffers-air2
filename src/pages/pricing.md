@@ -62,7 +62,7 @@ sections:
         content_align: left
         actions:
           - label: Start with New installations
-            url: /thank-you
+            url: /contact-us
             style: primary
         actions_align: left
         actions_width: full-width
