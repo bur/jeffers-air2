@@ -33,7 +33,7 @@ sections:
         subtitle: Preparing your home for hot summers and cold winters
         title_align: left
         content: |
-          ### &#xA;$75
+          ###       &#xA;$75
 
           per unit, excluding freon costs
 
