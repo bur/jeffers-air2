@@ -107,9 +107,8 @@ sections:
         media_position: right
         media_width: thirty-three
       - title: >-
-          “Joel is amazing and has very reasonable prices. He's willing to
-          answer questions and come up with inexpensive solutions. He's not
-          going to swindle or up charge anyone and he does really amazing work!”
+          “Our family has used Joel for service for years and years. Fair,
+          honest, friendly, professional service.”
         subtitle: 'Stefanie Reinsch, Manager at Company'
         image_alt: Person 2 photo
         media_position: left
