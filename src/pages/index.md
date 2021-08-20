@@ -109,7 +109,7 @@ sections:
       - title: >-
           “Our family has used Joel for service for years and years. Fair,
           honest, friendly, professional service.”
-        subtitle: 'Michele Infalt,'
+        subtitle: 'Michele Infalt, Queen Creek'
         image_alt: Person 2 photo
         media_position: left
         media_width: thirty-three
