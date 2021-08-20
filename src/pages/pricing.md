@@ -24,7 +24,7 @@ sections:
           *   Different repair options for pricing
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: Start with Repairs
             url: /thank-you
             style: primary
         actions_align: left
