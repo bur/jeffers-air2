@@ -15,7 +15,7 @@ sections:
         content: |
           ***
 
-          ### $50
+          ### $75
 
           Service call initial charge
 
