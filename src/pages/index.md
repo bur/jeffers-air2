@@ -6,10 +6,9 @@ sections:
     subtitle: >-
       Providing A/C and Heating services to the East Valley and Phoenix
       Metropolitan area.
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: >
+      We're always here to help with any of your air conditioning and heating
+      needs, reach out today.
     actions:
       - label: App Store
         url: /pricing
