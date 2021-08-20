@@ -98,7 +98,7 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “[...]Joel’s team are hard working, dependable, timely, conscientious
+          “[...] Joel’s team are hard working, dependable, timely, conscientious
           as well as clean up after themselves! Joel is personable and is very
           fair in pricing [...]. If you need an AC man Joel Jeffers is the right
           one!”
