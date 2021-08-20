@@ -32,8 +32,10 @@ sections:
       - title: Tune-ups
         subtitle: Preparing your home for hot summers and cold winters
         title_align: left
-        content: |
-          ### &#xA;&#xA;$19
+        content: |2
+           
+
+          $19
 
           per month, billed yearly
 
