@@ -12,18 +12,16 @@ sections:
       - title: Repairs
         subtitle: 'Fast,'
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### $50
 
-          per month, billed yearly
+          Service call initial charge
 
-          * Up to 3 calendar integrations
-          * Up to 2 task lists
-          * Color coded notifications
-          * Up to 2 devices
-          * Productivity reporting
+          *   Quick diagnosis of your issue
+          *   We coordinate with manufactures for repairs under warranty
+          *   Different repair options for pricing
         content_align: left
         actions:
           - label: Start with Personal
