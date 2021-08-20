@@ -51,8 +51,6 @@ sections:
         subtitle: Offering TRANE energy efficient units
         title_align: left
         content: |
-          ***
-
           ### 0%
 
           Financing available
