@@ -28,9 +28,12 @@ sections:
     grid_items:
       - title: Repairs
         title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+        content: >
+          When your A/C stops in the peak of the summer, you need your system
+          fixed immediately, and by an expert you can trust not to cut corners.
+
+
+          *
         content_align: left
         actions:
           - label: Learn More
