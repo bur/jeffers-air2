@@ -31,9 +31,6 @@ sections:
         content: >
           When your A/C stops in the peak of the summer, you need your system
           fixed immediately, and by an expert you can trust not to cut corners.
-
-
-          *
         content_align: left
         actions:
           - label: Learn More
