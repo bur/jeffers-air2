@@ -50,18 +50,14 @@ sections:
       - title: New Installations
         subtitle: Offering Trane
         title_align: left
-        content: |-
-          ---
+        content: |+
+          ***
 
-          ### $39
+          ### 0% Financing Available
 
-          per month, billed yearly
+          *   Top of the line Trane Units
+          *   Consultation free if unit purchased
 
-          * Unlimited calendars
-          * Unlimited task list integrations
-          * Project-based color coding
-          * Scheduled notifications
-          * Task delegation
         content_align: left
         actions:
           - label: Start with Business
