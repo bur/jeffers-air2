@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Pricing
     subtitle: >-
-      Jeffers Air Conditioning & Heating offers honest pricing for whatever
-      needs you and your family needs
+      Jeffers Air Conditioning & Heating offers honest pricing that you can
+      trust
     align: center
     padding_top: large
     padding_bottom: small
