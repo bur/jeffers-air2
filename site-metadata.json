@@ -41,11 +41,6 @@
                 "url": "tel:1-480-332-8642",
                 "style": "link",
                 "has_icon": true
-            },
-            {
-                "label": "Tutorials",
-                "url": "/blog/category/tutorials",
-                "style": "link"
             }
         ],
         "has_tertiary_nav": false,
