@@ -35,15 +35,13 @@ sections:
         content: |
           .
 
-          ## $19
+          ## $50
 
-          per month, billed yearly
+          per unit, excluding freon costs
 
-          *   Shared calendar integrations
-          *   Unlimited task lists
-          *   Synchronized reminders
-          *   Shared badgets
-          *   Up to 5 devices
+          *   Evaluation of exterior and interior units
+          *   Refueling freon as needed
+          *   Professional recommendations for further repairs
         content_align: left
         actions:
           - label: Start with Family
