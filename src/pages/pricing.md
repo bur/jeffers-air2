@@ -48,7 +48,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: New Installations
-        subtitle: Offering TRANE energy efficient
+        subtitle: Offering TRANE energy efficient units
         title_align: left
         content: |
           ***
