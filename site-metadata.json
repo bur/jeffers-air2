@@ -39,7 +39,8 @@
             {
                 "label": "480-332-8642",
                 "url": "tel:1-480-332-8642",
-                "style": "link"
+                "style": "link",
+                "has_icon": true
             },
             {
                 "label": "Tutorials",
