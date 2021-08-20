@@ -106,7 +106,10 @@ sections:
         image_alt: Person 1 photo
         media_position: right
         media_width: thirty-three
-      - title: “A very useful project management app. I use it every day.”
+      - title: >-
+          “ Joel is amazing and has very reasonable prices. He's willing to
+          answer questions and come up with inexpensive solutions. He's not
+          going to swindle or up charge anyone and he does really amazing work!”
         subtitle: 'Travis Guidelines, Manager at Company'
         image_alt: Person 2 photo
         media_position: left
