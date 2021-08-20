@@ -47,9 +47,12 @@ sections:
         image_position: top
       - title: Tune-ups
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: >
+          A/C and heating systems are put to work in the Arizona heat year after
+          year. Keeping your system maintained is a key prevention from costly
+          repairs in the future. Schedule a tune-up service with our A/C and
+          heating experts to ensure you don't have any unexpected emergencies
+          later.
         content_align: left
         actions:
           - label: Learn More
