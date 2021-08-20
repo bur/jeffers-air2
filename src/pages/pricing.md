@@ -32,18 +32,16 @@ sections:
       - title: Tune-ups
         subtitle: Preparing your home for hot summers and cold winters
         title_align: left
-        content: |-
-          ---
-
+        content: |
           ### $19
 
           per month, billed yearly
 
-          * Shared calendar integrations
-          * Unlimited task lists
-          * Synchronized reminders
-          * Shared badgets
-          * Up to 5 devices
+          *   Shared calendar integrations
+          *   Unlimited task lists
+          *   Synchronized reminders
+          *   Shared badgets
+          *   Up to 5 devices
         content_align: left
         actions:
           - label: Start with Family
