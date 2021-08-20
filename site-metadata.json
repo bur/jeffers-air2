@@ -90,5 +90,20 @@
         "content": "&copy; Jeffers Air Conditioning & Heating D.B.A Gold Canyon Heating and Cooling 2021"
     },
     "title": "Jeffers Air Conditioning & Heating",
-    "domain": "https://jeffers-air2-fed04.netlify.app"
+    "domain": "https://jeffers-air2-fed04.netlify.app",
+    "header": {
+        "title": "lorem-ipsum",
+        "logo_alt": "lorem-ipsum",
+        "has_primary_nav": true,
+        "primary_nav_links": [],
+        "has_secondary_nav": true,
+        "secondary_nav_links": [],
+        "has_anncmnt": false,
+        "anncmnt_content": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
+        "anncmnt_align": "left",
+        "anncmnt_is_home_only": false,
+        "anncmnt_has_close": false,
+        "anncmnt_id": "lorem-ipsum",
+        "type": "header"
+    }
 }
