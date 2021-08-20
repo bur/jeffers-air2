@@ -13,9 +13,6 @@ sections:
       - label: App Store
         url: /pricing
         style: primary
-      - label: Google Play
-        url: /pricing
-        style: secondary
     image: images/truck.jpg
     image_alt: Hero section placeholder image
     media_position: left
